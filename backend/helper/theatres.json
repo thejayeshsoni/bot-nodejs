@@ -1,0 +1,44 @@
+[
+    {
+        "name":"Cinepolis",
+        "location":"Malviya Nagar, Jaipur",
+        "pricePerSeat":"200",
+        "totalSeats":"150",
+        "seatsAvailable":"100"
+    },
+    {
+        "name":"Miraj Cinema",
+        "location":"Jawahar Circle, Jaipur",
+        "pricePerSeat":"220",
+        "totalSeats":"150",
+        "seatsAvailable":"100"
+    },
+    {
+        "name":"Raj Mandir",
+        "location":"Ajmeri Gate, Jaipur",
+        "pricePerSeat":"170",
+        "totalSeats":"150",
+        "seatsAvailable":"100"
+    },
+    {
+        "name":"Inox",
+        "location":"Raja Park, Jaipur",
+        "pricePerSeat":"300",
+        "totalSeats":"150",
+        "seatsAvailable":"100"
+    },
+    {
+        "name":"PVR",
+        "location":"Triton Mall Jhotwara, Jaipur",
+        "pricePerSeat":"400",
+        "totalSeats":"150",
+        "seatsAvailable":"100"
+    },
+    {
+        "name":"First Cinema",
+        "location":"B2 Bypass, Jaipur",
+        "pricePerSeat":"250",
+        "totalSeats":"150",
+        "seatsAvailable":"100"
+    }
+]

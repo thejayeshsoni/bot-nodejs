@@ -1,0 +1,32 @@
+[
+    {
+        "title":"Heroic Bloodshed",
+        "synopsis":"This action sub-genre is defined by values like duty, brotherhood, honor, redemption, and the protection of the vulnerable. It was initially created in Hong Kong cinema but has since made its way around the world.",
+        "genre":"Action"
+    },
+    {
+        "title":"Spoof",
+        "synopsis":"A spoof is broader than a parody because it mocks an entire genre or collection of similar, but separate works. Where parody targets a specific piece of art or entertainment, spoofs target the entire genre.",
+        "genre":"Comedy"
+    },
+    {
+        "title":" Harry Potter",
+        "synopsis":"Harry Potter is a British-American film series based on the eponymous novels by author J. K. Rowling. The series is distributed by Warner Bros. and consists of eight fantasy films, beginning with Harry Potter and the Philosopher Stone and culminating with Harry Potter and the Deathly Hallows Part 2.",
+        "genre":"Drama"
+    },
+    {
+        "title":"Mr. Smith Goes to Washington",
+        "synopsis":"Mr. Smith Goes to Washington is a 1939 American political comedy-drama film directed by Frank Capra, starring Jean Arthur and James Stewart, and featuring Claude Rains and Edward Arnold.",
+        "genre":"Historical"
+    },
+    {
+        "title":"Stop Motion",
+        "synopsis":"Stop motion animation is defined by taking real objects and adjusting them frame by frame to simulate motion and emotion. Stop motion refers to the style of photography, while stop motion such as claymation and sometimes puppet animation can fall into multiple sub-genres.",
+        "genre":"Animation"
+    },
+    {
+        "title":"Blue Valentine",
+        "synopsis":"Dean and Cynthia are married with a daughter and their marriage is about to fall apart. Both come from dysfunctional families and struggle to make sense of their relationship.",
+        "genre":"Drama"
+    }
+]

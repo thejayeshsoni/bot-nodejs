@@ -1,0 +1,114 @@
+[
+  {
+    "movieId": "63ef21fc70fe6b126c153949",
+    "theatreId": "63ef21fc70fe6b126c153954",
+    "dateTime": "2023-02-28",
+    "availableSeats": "80",
+    "pricePerSeat": "250"
+  },
+  {
+    "movieId": "63ef21fc70fe6b126c153949",
+    "theatreId": "63ef21fc70fe6b126c153957",
+    "dateTime": "2023-02-28",
+    "availableSeats": "80",
+    "pricePerSeat": "250"
+  },
+  {
+    "movieId": "63ef21fc70fe6b126c153949",
+    "theatreId": "63ef21fc70fe6b126c153956",
+    "dateTime": "2023-02-28",
+    "availableSeats": "80",
+    "pricePerSeat": "250"
+  },
+  {
+    "movieId": "63ef21fc70fe6b126c153949",
+    "theatreId": "63ef21fc70fe6b126c153958",
+    "dateTime": "2023-02-28",
+    "availableSeats": "80",
+    "pricePerSeat": "250"
+  },
+  {
+    "movieId": "63ef21fc70fe6b126c15394c",
+    "theatreId": "63ef21fc70fe6b126c153954",
+    "dateTime": "2023-02-28",
+    "availableSeats": "80",
+    "pricePerSeat": "250"
+  },
+  {
+    "movieId": "63ef21fc70fe6b126c15394c",
+    "theatreId": "63ef21fc70fe6b126c153957",
+    "dateTime": "2023-02-28",
+    "availableSeats": "80",
+    "pricePerSeat": "250"
+  },
+  {
+    "movieId": "63ef21fc70fe6b126c15394c",
+    "theatreId": "63ef21fc70fe6b126c153956",
+    "dateTime": "2023-02-28",
+    "availableSeats": "80",
+    "pricePerSeat": "250"
+  },
+  {
+    "movieId": "63ef21fc70fe6b126c15394c",
+    "theatreId": "63ef21fc70fe6b126c153958",
+    "dateTime": "2023-02-28",
+    "availableSeats": "80",
+    "pricePerSeat": "250"
+  },
+  {
+    "movieId": "63ef280d229ddeee40731643",
+    "theatreId": "63ef21fc70fe6b126c153954",
+    "dateTime": "2023-02-28",
+    "availableSeats": "80",
+    "pricePerSeat": "250"
+  },
+  {
+    "movieId": "63ef280d229ddeee40731643",
+    "theatreId": "63ef21fc70fe6b126c153957",
+    "dateTime": "2023-02-28",
+    "availableSeats": "80",
+    "pricePerSeat": "250"
+  },
+  {
+    "movieId": "63ef280d229ddeee40731643",
+    "theatreId": "63ef21fc70fe6b126c153956",
+    "dateTime": "2023-02-28",
+    "availableSeats": "80",
+    "pricePerSeat": "250"
+  },
+  {
+    "movieId": "63ef280d229ddeee40731643",
+    "theatreId": "63ef21fc70fe6b126c153958",
+    "dateTime": "2023-02-28",
+    "availableSeats": "80",
+    "pricePerSeat": "250"
+  },
+  {
+    "movieId": "63ef64ffa0f1d8f47e1534af",
+    "theatreId": "63ef21fc70fe6b126c153954",
+    "dateTime": "2023-02-28",
+    "availableSeats": "80",
+    "pricePerSeat": "250"
+  },
+  {
+    "movieId": "63ef64ffa0f1d8f47e1534af",
+    "theatreId": "63ef21fc70fe6b126c153957",
+    "dateTime": "2023-02-28",
+    "availableSeats": "80",
+    "pricePerSeat": "250"
+  },
+  {
+    "movieId": "63ef64ffa0f1d8f47e1534af",
+    "theatreId": "63ef21fc70fe6b126c153956",
+    "dateTime": "2023-02-28",
+    "availableSeats": "80",
+    "pricePerSeat": "250"
+  },
+  {
+    "movieId": "63ef64ffa0f1d8f47e1534af",
+    "theatreId": "63ef21fc70fe6b126c153958",
+    "dateTime": "2023-02-28",
+    "availableSeats": "80",
+    "pricePerSeat": "250"
+  }
+]
